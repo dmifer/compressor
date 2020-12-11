@@ -3,7 +3,9 @@
 Descriprion:
 
 compress.py - compress choosen file
+
 decompress.py - decompress choosen file
+
 entropy.py - calculate entropy
   
 
